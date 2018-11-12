@@ -12,7 +12,9 @@ class BoardMember{
 approve(){
   return "You can do that!"
   }
-  
+  releasePressStatement(){
+    
+  } returns You will see great things from Scuber.
   
 }
 
