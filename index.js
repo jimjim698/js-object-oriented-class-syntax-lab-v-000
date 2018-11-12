@@ -13,8 +13,8 @@ approve(){
   return "You can do that!"
   }
   releasePressStatement(){
-    
-  } returns You will see great things from Scuber.
+    return "You will see great things from Scuber."
+  } 
   
 }
 
