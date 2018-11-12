@@ -25,3 +25,10 @@ approve(){
   
 }
 
+class Ceo extends User{
+  
+  hireEmployee(){
+    return "Welcome aboard!"
+  }
+}
+
